@@ -67,6 +67,6 @@
 	"dependencies": {
 		"babel-runtime": "^6.23.0",
 		"prop-types": "^15.5.10",
-		"rc-trigger": "^1.11.3"
+		"rc-trigger": "https://github.com/elbrus/trigger/tarball/052aa588e1f860b8d03bde06fb0396d601177019"
 	}
 }
