@@ -64,9 +64,6 @@
 		"react": "15.x",
 		"react-dom": "15.x"
 	},
-	"pre-commit": [
-		"lint"
-	],
 	"dependencies": {
 		"babel-runtime": "^6.23.0",
 		"prop-types": "^15.5.10",
